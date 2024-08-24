@@ -4,4 +4,4 @@ A lightweight Openbox DE
 
 Todo:
 
-[  ] Rewrite Stack. Dock with Tkinter/CustomTkinter because it is simpler
+- [ ] Rewrite Stack. Dock with Tkinter/CustomTkinter because it is simpler
